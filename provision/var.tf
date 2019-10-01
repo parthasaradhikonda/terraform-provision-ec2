@@ -23,7 +23,7 @@ variable "key_name" {
   default = ""
 }
 
-# Role to attch to the ec2
+# Role needs to be attached to the ec2
 variable "iam_role" {
   type    = "string"
   default = ""
