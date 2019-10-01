@@ -11,7 +11,7 @@ You need to have terraform installed. And make sure that you've the correct IAM 
 ```
 ## Init
 ```
-    cd ~/terraform-provision-ec2
+    cd ~/terraform-provision-ec2/provision/
     terraform init
 ```
 ## Plan
